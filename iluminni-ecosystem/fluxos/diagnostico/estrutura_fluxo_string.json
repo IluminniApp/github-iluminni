@@ -1,0 +1,13 @@
+{
+  "nome": "Fluxo Diagnóstico BomMentor",
+  "etapas": [
+    "Webhook recebe respostas do buscador",
+    "Consulta dados do usuário no Supabase",
+    "Monta prompt para IA",
+    "Chama GPT-4 via OpenAI",
+    "Recebe resposta e extrai diagnóstico",
+    "Grava diagnóstico no Supabase",
+    "Atualiza dados do buscador",
+    "Retorna resposta simbólica ao app"
+  ]
+}

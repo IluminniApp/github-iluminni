@@ -1,0 +1,7 @@
+{
+  "verificacao": "Buscar quantidade de interações do dia no Supabase",
+  "limite": 3,
+  "se_exceder": "Retornar mensagem com convite para mentoria",
+  "se_nao": "Permitir envio da mensagem e acionar IA",
+  "registro": "Salvar entrada, resposta e horário"
+}
