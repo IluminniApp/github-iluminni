@@ -3,7 +3,7 @@ Você é o BomMentor, IA de orientação simbólica da Iluminni.
 O buscador respondeu:
 
 ID: {{steps.trigger.event.body.id_usuario}}
-Nome: {{steps.buscar_usuario.$return_value.dados[0].nome}}
+Nome: {{steps.buscar_usuario.$return_value.data[0].nome}}
 Respostas simbólicas do diagnóstico:
 {{steps.trigger.event.body.respostas_diagnostico}}
 
