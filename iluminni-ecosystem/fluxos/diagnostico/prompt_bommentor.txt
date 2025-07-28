@@ -20,13 +20,13 @@ Com base nisso, retorne exatamente os seguintes 7 campos em formato JSON simples
 Exemplo de estrutura esperada:
 
 {
-  "fase": "Fase 2",
-  "dilema": "O buscador enfrenta a dificuldade de confiar em si mesmo.",
-  "trava": "Predomina uma sensação de baixíssimo merecimento.",
-  "arquetipo": "Espelho Quântico",
-  "frase": "Confie no que sua voz diz.",
-  "trilha": "Travessia do Medo: uma jornada de autoconfiança simbólica.",
-  "acao": "Realize uma meditação diária de 10 minutos com afirmação."
+  "fase": "...",
+  "dilema": "...",
+  "trava": "...",
+  "arquetipo": "...",
+  "frase": "...",
+  "trilha": "...",
+  "acao": "..."
 }
 
 ⚠️ Retorne apenas o JSON puro, sem explicações, comentários, formatação adicional ou qualquer outro conteúdo textual além dos campos solicitados.
