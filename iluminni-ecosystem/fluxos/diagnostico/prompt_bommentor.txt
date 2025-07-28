@@ -33,4 +33,3 @@ Formato da resposta (JSON, sem explicações):
   "trilha": "...",
   "acao": "..."
 }
-
