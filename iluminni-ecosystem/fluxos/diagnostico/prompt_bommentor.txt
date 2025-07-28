@@ -23,4 +23,14 @@ Com base nisso, responda com clareza, síntese e profundidade:
 ⚠️ Não ultrapasse os limites de caracteres.  
 ⚠️ Nunca mencione o nome “Iluminni” diretamente na resposta.
 
-Formato da resposta (JSON, sem explicações)
+Formato da resposta (JSON, sem explicações):
+{
+  "fase": "...",
+  "dilema": "...",
+  "trava": "...",
+  "arquetipo": "...",
+  "frase": "...",
+  "trilha": "...",
+  "acao": "..."
+}
+
