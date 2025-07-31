@@ -12,7 +12,7 @@ Com base nisso, retorne exatamente os seguintes 7 campos em formato JSON simples
 1. "fase" → Nome da fase vibracional (ex: "Fase 1")
 2. "dilema" → Dilema simbólico do buscador (150 a 200 caracteres)
 3. "trava" → Trava emocional predominante (150 a 200 caracteres)
-4. "arquetipo" → Nome do arquétipo predominante (ex: "BomMentor")
+4. "arquetipo" → Nome do arquétipo comercial predominante (principal: "BomMentor")
 5. "frase" → Frase simbólica inspiradora (30 a 50 caracteres, direta e impactante)
 6. "trilha" → Nome e descrição curta da trilha sugerida (150 a 200 caracteres)
 7. "acao" → Primeira ação simbólica prática para o buscador (150 a 200 caracteres)
